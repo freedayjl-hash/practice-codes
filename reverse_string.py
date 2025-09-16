@@ -8,3 +8,6 @@ reversed_text = text[::-1]
 
 # 결과 출력
 print("뒤집은 문자열:", reversed_text)
+
+# 창이 바로 닫히지 않게 하기
+input("엔터 키를 누르면 프로그램을 종료합니다...")
